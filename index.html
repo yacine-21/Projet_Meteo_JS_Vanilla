@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meteo</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+</head>
+<body>
+    <!--Créer la barre de recherche  *****************************************************************************************************************-->
+
+    <div class ="form">
+        <textarea id="champ"></textarea>
+        <button id="btn">Save</button>
+
+    <!-- Ici le nom de la ville  *****************************************************************************************************************-->
+        <h1 id="titre">ICI LE NOM DE LA VILLE RECHERCHEE</h1>
+    </div>
+
+    <!--Ici les jours de la semaines  *****************************************************************************************************************-->
+    <div class="bloc">
+        <div class="carte">
+            <p>Lundi</p>
+            <p class="jour_1">RENTREZ une ville</p>
+        </div>
+        <div class="carte">
+            <p>Mardi</p>
+            <p class="jour_2">RENTREZ une ville</p>
+        </div>
+        <div class="carte">
+            <p>Mercredi</p>
+            <p class="jour_3">RENTREZ une ville : </p>
+        </div>
+        <div class="carte">
+            <p>Jeudi</p>
+            <p class="jour_4">RENTREZ une ville </p>
+        </div>
+        <div class="carte">
+            <p>Vendredi</p>
+            <p class="jour_5">RENTREZ une ville : </p>
+        </div>
+        <div class="carte">
+            <p>Samedi</p>
+            <p class="jour_6">RENTREZ une ville: </p>
+        </div>
+        <div class="carte">
+            <p>DImanche</p>
+            <p class="jour_7">RENTREZ une ville : </p>
+        </div>
+    </div>
+
+    <!--Les villes sauvegardées ici  *****************************************************************************************************************-->
+    <h2>VOS VILLES SAUVEGARDEES : </h2> 
+    <div id="save"></div>
+    <script src="app.js"></script>
+</body>
+</html>

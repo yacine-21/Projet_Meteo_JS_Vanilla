@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("https://wallpapermemory.com/uploads/432/sky-wallpaper-full-hd-1080p-56892.jpg")
+}
+
+.jour, p{
+    color: white;
+    background-color: black;
+    font-size:20px;
+    width:12vw;
+    border: 3px solid black;
+}      
+
+h1, h2{
+    color:white;
+}
+.bloc{
+    display: flex;
+    justify-content: space-between;
+}
