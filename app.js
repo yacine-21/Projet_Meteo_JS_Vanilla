@@ -4,8 +4,8 @@ let champ = document.getElementById("champ");
 let btn = document.getElementById("btn");
 let ville = document.getElementById("titre");
 let villeSave = document.getElementById("save");
-const api_key = "ddef234bffdb94e0b9b8358c6d653348";
-let url = "https://api.openweathermap.org/geo/1.0/direct?q=";
+const api_key = process.env.API_KEY;
+let url = process.env.API_URL;
 let city;
 // champ.addEventListener("input", update)
 btn.addEventListener("click", update);
