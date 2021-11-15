@@ -48,7 +48,7 @@ This is a first year school project, It's a simple and very very basic meteo app
 ### Built With
 
 
-* [jAVASCRIPT VANILLA](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [JAVASCRIPT VANILLA](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
