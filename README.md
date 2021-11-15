@@ -12,7 +12,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -93,19 +92,37 @@ Yacine - [@my_twitter](https://twitter.com/Yacine_D_21) - yacinelyoubi37@gmail.c
 Project Link: [https://projet-meteo-js-vanilla.vercel.app/](https://projet-meteo-js-vanilla.vercel.app/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-  
+
+
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+
+* [Choose an Open Source License](https://choosealicense.com)
+* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
+* [Malven's Grid Cheatsheet](https://grid.malven.co/)
+* [Img Shields](https://shields.io)
+* [GitHub Pages](https://pages.github.com)
+* [Font Awesome](https://fontawesome.com)
+* [React Icons](https://react-icons.github.io/react-icons/search)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: [https://img.shields.io/github/contributors/yacine-21](https://img.shields.io/github/contributors/yacine-21/Projet_Meteo_JS_Vanilla.svg?style=for-the-badge)
-[contributors-url]: [https://github.com/yacine-21](https://github.com/yacine-21/Projet_Meteo_JS_Vanilla/graphs/contributors)
-[forks-shield]: [https://img.shields.io/github/forks/yacine-21/](https://img.shields.io/github/forks/yacine-21/Projet_Meteo_JS_Vanilla.svg?style=for-the-badge)
-[forks-url]: [https://github.com/yacine-21/](https://github.com/yacine-21/Projet_Meteo_JS_Vanilla/network/members)
-[stars-shield]: [https://img.shields.io/github/stars/yacine-21/](https://img.shields.io/github/stars/yacine-21/Projet_Meteo_JS_Vanilla.svg?style=for-the-badge)
-[stars-url]: [https://github.com/yacine-21/](https://github.com/yacine-21/Projet_Meteo_JS_Vanilla/stargazers)
-[issues-shield]: [https://img.shields.io/github/issues/yacine-21/](https://img.shields.io/github/issues/yacine-21/Projet_Meteo_JS_Vanilla.svg?style=for-the-badge)
-[issues-url]: [https://github.com/yacine-21/](https://github.com/yacine-21/Projet_Meteo_JS_Vanilla/issues)
-[license-shield]: [https://img.shields.io/github/license/yacine-21/](https://img.shields.io/github/license/yacine-21/Projet_Meteo_JS_Vanilla.svg?style=for-the-badge)
-[license-url]: [https://github.com/yacine-21/](https://github.com/yacine-21/Projet_Meteo_JS_Vanilla/blob/master/LICENSE.txt)
-[linkedin-shield]: [https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555)
-[linkedin-url]: [https://linkedin.com/in/yacine-21](https://linkedin.com/in/yacine-21)
+[contributors-shield]: https://img.shields.io/github/contributors/yacine-21/Projet_Meteo_JS_Vanilla.svg?style=for-the-badge
+[contributors-url]: https://github.com/yacine-21/Projet_Meteo_JS_Vanilla/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/yacine-21/Projet_Meteo_JS_Vanilla.svg?style=for-the-badge
+[forks-url]: https://github.com/yacine-21/Projet_Meteo_JS_Vanilla/network/members
+[stars-shield]: https://img.shields.io/github/stars/yacine-21/Projet_Meteo_JS_Vanilla.svg?style=for-the-badge
+[stars-url]: https://github.com/yacine-21/Projet_Meteo_JS_Vanilla/stargazers
+[issues-shield]: https://img.shields.io/github/issues/yacine-21/Projet_Meteo_JS_Vanilla.svg?style=for-the-badge
+[issues-url]: https://github.com/yacine-21/Projet_Meteo_JS_Vanilla/issues
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/yacine-lyoubi/
 [product-screenshot]: images/screenshot.png
