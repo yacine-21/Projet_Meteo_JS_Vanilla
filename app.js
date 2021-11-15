@@ -24,17 +24,10 @@ function update() {
           longitude +
           "&appid=" +
           api_key +
-          "&units=metric&exclude=current,hourly,alert,minutely&lang=fr",
-        {
-          headers: {
-            "Access-Control-Allow-Origin": "*",
-          },
-        }
+          "&units=metric&exclude=current,hourly,alert,minutely&lang=fr"
       )
         .then((r) => r.json())
         .then((r) => {
-          console.log(r.daily);
-
           // LOCAL STORAGE
           localStorage.setItem(
             "name",
