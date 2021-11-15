@@ -1,5 +1,6 @@
-// Déclaration de variables
+require("dotenv").config();
 
+// Déclaration de variables
 let champ = document.getElementById("champ");
 let btn = document.getElementById("btn");
 let ville = document.getElementById("titre");
