@@ -96,8 +96,8 @@ Project Link: [https://projet-meteo-js-vanilla.vercel.app/](https://projet-meteo
   
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: [https://img.shields.io/github/contributors/yacine-21/](https://img.shields.io/github/contributors/yacine-21/Projet_Meteo_JS_Vanillstyle=for-the-badge)
-[contributors-url]: [https://github.com/yacine-21/](https://github.com/yacine-21/Projet_Meteo_JS_Vanilla/graphs/contributors)
+[contributors-shield]: [https://img.shields.io/github/contributors/yacine-21](https://img.shields.io/github/contributors/yacine-21/Projet_Meteo_JS_Vanilla.svg?style=for-the-badge)
+[contributors-url]: [https://github.com/yacine-21](https://github.com/yacine-21/Projet_Meteo_JS_Vanilla/graphs/contributors)
 [forks-shield]: [https://img.shields.io/github/forks/yacine-21/](https://img.shields.io/github/forks/yacine-21/Projet_Meteo_JS_Vanilla.svg?style=for-the-badge)
 [forks-url]: [https://github.com/yacine-21/](https://github.com/yacine-21/Projet_Meteo_JS_Vanilla/network/members)
 [stars-shield]: [https://img.shields.io/github/stars/yacine-21/](https://img.shields.io/github/stars/yacine-21/Projet_Meteo_JS_Vanilla.svg?style=for-the-badge)
