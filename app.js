@@ -1,4 +1,6 @@
-require("dotenv").config();
+if ("%NODE_ENV%" === "production") {
+  require("dotenv").config();
+}
 
 // Déclaration de variables
 let champ = document.getElementById("champ");
@@ -26,7 +28,12 @@ function update() {
           longitude +
           "&appid=" +
           api_key +
-          "&units=metric&exclude=current,hourly,alert,minutely&lang=fr"
+          "&units=metric&exclude=current,hourly,alert,minutely&lang=fr",
+        {
+          headers: {
+            "Access-Control-Allow-Origin": "*",
+          },
+        }
       )
         .then((r) => r.json())
         .then((r) => {
